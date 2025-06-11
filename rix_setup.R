@@ -39,6 +39,7 @@ rix(
 "amsfonts",
 "titling",
 "biblatex",
+"biblatex-apa",
 "hyperref",
 "placeins",
 "pdflscape"),
