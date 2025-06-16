@@ -39,7 +39,6 @@ rix(
 "amsfonts",
 "titling",
 "biblatex",
-"biblatex-apa",
 "collection-bibtexextra",
 "hyperref",
 "placeins",
