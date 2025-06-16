@@ -7,7 +7,7 @@ library(rix)
 path_default_nix <- getwd()
 
 rix(
-  r_ver = "4.5.0",
+  date = "2025-06-13",
   r_pkgs = c("rix",
 "tidyverse",
 "broom", 
@@ -40,9 +40,11 @@ rix(
 "titling",
 "biblatex",
 "biblatex-apa",
+"collection-bibtexextra",
 "hyperref",
 "placeins",
-"pdflscape"),
+"pdflscape",
+"framed"),
   git_pkgs = NULL,
   ide = "rstudio",
   project_path = path_default_nix,
